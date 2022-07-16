@@ -1,0 +1,8 @@
+.lazyImages {
+  text-align: center;
+  padding: 100px 0;
+}
+.lazyImages img {
+  max-width: 297px;
+  margin-bottom: 100px;
+}
